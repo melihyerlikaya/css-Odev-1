@@ -1,0 +1,18 @@
+body {
+    margin:0 auto;text-align:center; width: 1300px;
+    list-style-position: inside;
+}
+
+h1 {
+    font-size: 40px;
+    color: red;
+}
+
+h2 {
+    font-size: 30px;
+    color: #2146C7;
+}
+
+h3 {
+    color: #FD841F;
+}
